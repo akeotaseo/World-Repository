@@ -20,7 +20,9 @@ World-[COLOR cornflowerblue]Omega[/COLOR] 21 [COLOR blue]Έκδοση Build 21.3
 - [COLOR orange]Προσθήκες-Διορθώσεις World Build Updater-Tools:[/COLOR] -
 
 
-- [B]Τελευταία ενημέρωση 01 Αυγούστου 2026:[/B]
+- [B]Τελευταία ενημέρωση 15 Σεπτεμβρίου 2026:[/B]
+- [B][COLOR orange]Movie hub[/COLOR][/B]
+  Αλλαγή στο [B][COLOR white]HOΜE MENU[/B][/COLOR] στα [B]FAVORITES/DOCUMENTARY[/B] στο τρόπο προβολής/επιλογής ταινίας
 - Διάφορες αλλαγές/διορθώσεις/προσθήκες
 
 - [B]Ενημέρωση 05 Φεβρουαρίου 2026:[/B]
