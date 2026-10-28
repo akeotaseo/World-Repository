@@ -20,7 +20,11 @@ World-[COLOR cornflowerblue]Omega[/COLOR] 21 [COLOR blue]Έκδοση Build 21.3
 - [COLOR orange]Προσθήκες-Διορθώσεις World Build Updater-Tools:[/COLOR] -
 
 
-- [B]Τελευταία ενημέρωση 15 Οκτωβρίου 2026:[/B]
+- [B]Τελευταία ενημέρωση 28 Οκτωβρίου 2026:[/B]
+- Προσθήκη Κατηγορίας [COLOR white]HUB[/COLOR] στο [B]HOME MENU[/B]
+  για  [COLOR white]Ταινίες και Σειρές[/COLOR]
+- Αλλαγή (μικρή) στον τρόπο ενγμέρωσης του build
+- Διάφορες αλλαγές/διορθώσεις/προσθήκες
 
 - Διάφορες αλλαγές/διορθώσεις/προσθήκες
 
