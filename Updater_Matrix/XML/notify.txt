@@ -20,7 +20,27 @@ World-[COLOR cornflowerblue]Omega[/COLOR] 21 [COLOR blue]Έκδοση Build 21.3
 - [COLOR orange]Προσθήκες-Διορθώσεις World Build Updater-Tools:[/COLOR] -
 
 
-- [B]Τελευταία ενημέρωση 18 Νοεμβρίου 2026:[/B]
+- [B]Τελευταία ενημέρωση 21 Νοεμβρίου 2026:[/B]
+- Αναβάθμιση & βελτίωση της διαδικασίας ενημέρωσης του Build
+  (χωρίς εναλλαγές skin / «φλασαρίσματα» και με πλήρη διατήρηση των ρυθμίσεων)
+- Προσθήκη νέου [B][COLOR orange]Ελέγχου Συστήματος & Δικτύου[/COLOR][/B]
+  (Ping, Ταχύτητα, VPN, ISP, Βίντεο & Cache) στο [B]Context Menu[/B] & στο [B]Video OSD[/B]
+- Προσθήκη [B][COLOR cornflowerblue]AutoSniper Subtitles[/COLOR][/B] για άμεση λήψη υποτίτλων
+  και βελτίωση εμφάνισης υποτίτλων στο [B]Video OSD[/B]
+- Ανασχεδιασμός της κατηγορίας [COLOR white]SYSTEM[/COLOR] στο [B]HOME MENU[/B]
+  με νέα καρτέλα [COLOR white]Εργαλείων[/COLOR]
+- Μεγαλύτερο & πιο ευανάγνωστο παράθυρο επιλογής αρχείων ([B]File Browser[/B])
+- Διάφορες αλλαγές/διορθώσεις/προσθήκες στο Skin
+- (Υπομονή με τα updates...)
+
+
+
+
+- [B]Ενημέρωση 29 Οκτωβρίου 2026:[/B]
+- Προσθήκη Κατηγορίας [COLOR white]HUB[/COLOR] στο [B]HOME MENU[/B]
+  για [COLOR white]Ταινίες και Σειρές[/COLOR]
+- Προσθήκη μεγάλου widget [COLOR white]Σειρών[/COLOR] στην κατηγορία [B][COLOR blue]MOVIES & TV[/COLOR][/B]
+- Αλλαγή (μικρή) στον τρόπο ενημέρωσης του build
 - Διάφορες αλλαγές/διορθώσεις/προσθήκες
 - (Αυτό το AI θα μας κουτάνει τελείως)
 
