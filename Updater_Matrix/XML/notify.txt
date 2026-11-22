@@ -22,7 +22,6 @@ World-[COLOR cornflowerblue]Omega[/COLOR] 21 [COLOR blue]Έκδοση Build 21.3
 
 - [B]Τελευταία ενημέρωση 21 Νοεμβρίου 2026:[/B]
 - Αναβάθμιση & βελτίωση της διαδικασίας ενημέρωσης του Build
-  (χωρίς εναλλαγές skin / «φλασαρίσματα» και με πλήρη διατήρηση των ρυθμίσεων)
 - Προσθήκη νέου [B][COLOR orange]Ελέγχου Συστήματος & Δικτύου[/COLOR][/B]
   (Ping, Ταχύτητα, VPN, ISP, Βίντεο & Cache) στο [B]Context Menu[/B] & στο [B]Video OSD[/B]
 - Προσθήκη [B][COLOR cornflowerblue]AutoSniper Subtitles[/COLOR][/B] για άμεση λήψη υποτίτλων
